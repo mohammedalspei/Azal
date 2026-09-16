@@ -1,0 +1,11 @@
+{
+  "name": "مركز آزال للنظارات والسمعيات",
+  "description": "الموقع الرسمي لمركز آزال للنظارات والسمعيات - متجر إلكتروني متكامل للنظارات الطبية والشمسية، العدسات اللاصقة، أجهزة السمع، فحص النظر وتجربة النظارات الافتراضية وحجز المواعيد.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

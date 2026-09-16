@@ -1,0 +1,24 @@
+{
+  "name": "مركز آزال للنظارات والسمعيات",
+  "short_name": "مركز آزال",
+  "description": "الموقع الرسمي لمركز آزال للنظارات والسمعيات - متجر إلكتروني وفحص نظر وسمعيات",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/azal-icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/azal-icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

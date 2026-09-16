@@ -1,0 +1,757 @@
+{
+  "products": [
+    {
+      "id": "azal-titanium-elite",
+      "name": "إطار آزال تيتانيوم إليت خفيف الوزن",
+      "nameEn": "Azal Titanium Elite Ultra-Light Frame",
+      "brand": "Azal Signature",
+      "category": "eyeglasses",
+      "gender": "unisex",
+      "price": 25000,
+      "originalPrice": 32000,
+      "rating": 4.9,
+      "reviewCount": 48,
+      "images": [
+        "https://images.unsplash.com/photo-1591076482161-42ce6da69f68?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "أسود مطفي",
+          "hex": "#1e293b"
+        },
+        {
+          "name": "فضي ملكي",
+          "hex": "#94a3b8"
+        },
+        {
+          "name": "ذهبي كلاسيك",
+          "hex": "#d97706"
+        }
+      ],
+      "frameShape": "rectangular",
+      "material": "titanium",
+      "isBestSeller": true,
+      "description": "إطار طبي مصنوع من التيتانيوم الياباني فائق المرونة وخفة الوزن (8 جرام فقط). مناسب للاستخدام الطويل واليومي مع وسائد أنف سيليكون مريحة لا تترك أثراً.",
+      "specs": {
+        "lensWidth": 52,
+        "bridgeWidth": 18,
+        "templeLength": 145,
+        "frameWidth": 138,
+        "weight": "8.5g",
+        "warranty": "ضمان شامل لمدة سنتين",
+        "origin": "اليابان"
+      },
+      "features": [
+        "تيتانيوم مقاوم للتآكل والصدأ",
+        "مرونة عالية لا تنكسر",
+        "مضاد للحساسية الجلدية",
+        "مناسب لجميع درجات النظر"
+      ]
+    },
+    {
+      "id": "azal-havana-classic",
+      "name": "نظارة هافانا كلاسيك أسيتات إيطالي",
+      "nameEn": "Azal Italian Havana Acetate Glasses",
+      "brand": "Azal Heritage",
+      "category": "eyeglasses",
+      "gender": "men",
+      "price": 22000,
+      "originalPrice": 28000,
+      "rating": 4.8,
+      "reviewCount": 36,
+      "images": [
+        "https://images.unsplash.com/photo-1508296695146-257a814070b4?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "تايجر / هافانا بني",
+          "hex": "#78350f"
+        },
+        {
+          "name": "أسود لامع",
+          "hex": "#0f172a"
+        },
+        {
+          "name": "عسلي شفاف",
+          "hex": "#b45309"
+        }
+      ],
+      "frameShape": "square",
+      "material": "acetate",
+      "isNew": true,
+      "description": "تصميم عريض كلاسيكي راقي يبرز ملامح الوجه بجاذبية، مصنوع من ألواح الأسيتات الإيطالية المعالجة يدوياً مع مفصلات ألمانية مقواة من 5 نقاط.",
+      "specs": {
+        "lensWidth": 54,
+        "bridgeWidth": 19,
+        "templeLength": 145,
+        "frameWidth": 142,
+        "weight": "22g",
+        "warranty": "ضمان سنة كاملة",
+        "origin": "إيطاليا"
+      },
+      "features": [
+        "أسيتات طبيعي صديق للبيئة",
+        "مفصلات فولاذية خماسية",
+        "لون غني لا يبهت",
+        "حواف مريحة ومصقولة"
+      ]
+    },
+    {
+      "id": "azal-cateye-rose-gold",
+      "name": "نظارة كات آي روز جولد أنثوية أنيقة",
+      "nameEn": "Azal Rose Gold Cat-Eye Frames",
+      "brand": "Azal Couture",
+      "category": "eyeglasses",
+      "gender": "women",
+      "price": 24000,
+      "originalPrice": 30000,
+      "rating": 5,
+      "reviewCount": 62,
+      "images": [
+        "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1591076482161-42ce6da69f68?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "روز جولد وردي",
+          "hex": "#fb7185"
+        },
+        {
+          "name": "ذهبي لؤلؤي",
+          "hex": "#eab308"
+        },
+        {
+          "name": "فضي ناعم",
+          "hex": "#cbd5e1"
+        }
+      ],
+      "frameShape": "cat-eye",
+      "material": "metal",
+      "isBestSeller": true,
+      "description": "إطار عين القطة الرقيق المزدان بلمسات نحت ليزري على الأذرع، يمنح إطلالة مفعمة بالثقة والرقي ومناسب لمختلف أشكال الوجوه النسائية.",
+      "specs": {
+        "lensWidth": 51,
+        "bridgeWidth": 17,
+        "templeLength": 140,
+        "frameWidth": 134,
+        "weight": "14g",
+        "warranty": "ضمان سنتين",
+        "origin": "فرنسا"
+      },
+      "features": [
+        "تصميم عيون القطة الممشوق",
+        "مطلي بطبقة واقية لا تتأثر بالعرق",
+        "أذرع مريحة ومغطاة بالسيليكون",
+        "مظهر جذاب وفاخر"
+      ]
+    },
+    {
+      "id": "azal-round-vintage",
+      "name": "إطار دائري فينتاج أسلوب باريسي",
+      "nameEn": "Azal Vintage Round Minimalist Frame",
+      "brand": "Azal Signature",
+      "category": "eyeglasses",
+      "gender": "unisex",
+      "price": 21000,
+      "originalPrice": 27000,
+      "rating": 4.7,
+      "reviewCount": 29,
+      "images": [
+        "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1591076482161-42ce6da69f68?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "برونزي أثري",
+          "hex": "#92400e"
+        },
+        {
+          "name": "أسود مع ذهبي",
+          "hex": "#0f172a"
+        },
+        {
+          "name": "فضي بلاتينيوم",
+          "hex": "#64748b"
+        }
+      ],
+      "frameShape": "round",
+      "material": "metal",
+      "isNew": true,
+      "description": "النظارة الدائرية المستوحاة من العصر الكلاسيكي الذهبي، تتميز بجسر أنف مقوس هندسياً يعطي راحة تامة طوال فترات العمل والدراسة.",
+      "specs": {
+        "lensWidth": 49,
+        "bridgeWidth": 20,
+        "templeLength": 142,
+        "frameWidth": 132,
+        "weight": "11g",
+        "warranty": "ضمان سنة",
+        "origin": "ألمانيا"
+      },
+      "features": [
+        "خفة استثنائية",
+        "إطلالة كلاسيكية ذكية",
+        "مناسبة للقراءة والعمل المكتبي",
+        "جسر مقوس مريح"
+      ]
+    },
+    {
+      "id": "azal-kids-flex",
+      "name": "نظارة أطفال مرنة غير قابلة للكسر (TR90)",
+      "nameEn": "Azal Kids Safe Unbreakable Flex Glasses",
+      "brand": "Azal Kids Care",
+      "category": "eyeglasses",
+      "gender": "kids",
+      "price": 20000,
+      "originalPrice": 25000,
+      "rating": 4.9,
+      "reviewCount": 41,
+      "images": [
+        "https://images.unsplash.com/photo-1509695503492-411bc4d6a4c3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "أزرق ملكي",
+          "hex": "#1d4ed8"
+        },
+        {
+          "name": "وردي لطيف",
+          "hex": "#f43f5e"
+        },
+        {
+          "name": "أخضر ليموني",
+          "hex": "#84cc16"
+        }
+      ],
+      "frameShape": "rectangular",
+      "material": "tr90",
+      "description": "مصنوعة من مادة السليكون البوليمري فائق المرونة المخصص للأطفال، لا تحتوي على مسامير أو حواف حادة، مع شريط مطاطي خلفي للتثبيت أثناء اللعب.",
+      "specs": {
+        "lensWidth": 45,
+        "bridgeWidth": 15,
+        "templeLength": 125,
+        "frameWidth": 118,
+        "weight": "9g",
+        "warranty": "ضمان استبدال فوري ضد الكسر",
+        "origin": "كوريا الجنوبية"
+      },
+      "features": [
+        "مرونة 180 درجة بدون كسر",
+        "آمنة وصحية خالية من BPA",
+        "حزام تثبيت خلفي قابل للإزالة",
+        "ألوان زاهية محببة للأطفال"
+      ]
+    },
+    {
+      "id": "azal-aviator-polar-gold",
+      "name": "نظارة أفياتور كلاسيكية مستقطبة (Polarized)",
+      "nameEn": "Azal Aviator Gold Polarized Sunglasses",
+      "brand": "Azal Aviation",
+      "category": "sunglasses",
+      "gender": "unisex",
+      "price": 28000,
+      "originalPrice": 35000,
+      "rating": 4.9,
+      "reviewCount": 84,
+      "images": [
+        "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "عدسات خضراء G15 / إطار ذهبي",
+          "hex": "#15803d"
+        },
+        {
+          "name": "عدسات سوداء استقطاب / إطار فضي",
+          "hex": "#1e293b"
+        },
+        {
+          "name": "عدسات بنية متدرجة / إطار برونزي",
+          "hex": "#78350f"
+        }
+      ],
+      "frameShape": "aviator",
+      "material": "metal",
+      "isBestSeller": true,
+      "isOnSale": true,
+      "description": "الأيقونة الخالدة لطياري الطيران بتصميم عدسات قطرة الماء مع حماية استقطاب كاملة تمنع انعكاسات الطرق والشمس وأسطح الماء أثناء القيادة.",
+      "specs": {
+        "lensWidth": 58,
+        "bridgeWidth": 14,
+        "templeLength": 140,
+        "frameWidth": 142,
+        "weight": "24g",
+        "warranty": "ضمان سنتين",
+        "origin": "إيطاليا"
+      },
+      "features": [
+        "عدسات Polarized مستقطبة بالكامل",
+        "حماية UV400 قصوى",
+        "مثالية لقيادة السيارات في شمس الصيف",
+        "هيكل معدني مزدوج الجسر"
+      ]
+    },
+    {
+      "id": "azal-wayfarer-bold",
+      "name": "نظارة وايفارر بولد شمسية فاخرة",
+      "nameEn": "Azal Bold Wayfarer Luxury Sunglasses",
+      "brand": "Azal Heritage",
+      "category": "sunglasses",
+      "gender": "men",
+      "price": 26000,
+      "originalPrice": 33000,
+      "rating": 4.8,
+      "reviewCount": 53,
+      "images": [
+        "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1508296695146-257a814070b4?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "أسود كربوني لامع",
+          "hex": "#0f172a"
+        },
+        {
+          "name": "تايجر هافانا داكن",
+          "hex": "#451a03"
+        },
+        {
+          "name": "أزرق محيطي داكن",
+          "hex": "#1e3a8a"
+        }
+      ],
+      "frameShape": "square",
+      "material": "acetate",
+      "description": "قصة الوايفارر الشهيرة بإطار أسيتات سميك وعصري، تمنح حضوراً قوياً وحماية متكاملة من الوهج الشمسي والأشعة الضارة.",
+      "specs": {
+        "lensWidth": 54,
+        "bridgeWidth": 18,
+        "templeLength": 145,
+        "frameWidth": 144,
+        "weight": "28g",
+        "warranty": "ضمان سنة كاملة",
+        "origin": "إيطاليا"
+      },
+      "features": [
+        "عدسات مقاومة للخدش والتأثيرات",
+        "إطار أسيتات صلب وثابت",
+        "حماية UV400 100%",
+        "ملحقات علبة جلدية فاخرة"
+      ]
+    },
+    {
+      "id": "azal-oversized-glam",
+      "name": "نظارة شمسية أوفرسايز نسائية أنيقة",
+      "nameEn": "Azal Glamour Oversized Women Sunglasses",
+      "brand": "Azal Couture",
+      "category": "sunglasses",
+      "gender": "women",
+      "price": 27000,
+      "originalPrice": 34000,
+      "rating": 4.9,
+      "reviewCount": 77,
+      "images": [
+        "https://images.unsplash.com/photo-1509695503492-411bc4d6a4c3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "دخان متدرج مع ذهبي",
+          "hex": "#334155"
+        },
+        {
+          "name": "شوكولاتة دافئة",
+          "hex": "#713f12"
+        },
+        {
+          "name": "بينك شامبانيا",
+          "hex": "#f43f5e"
+        }
+      ],
+      "frameShape": "geometric",
+      "material": "metal",
+      "isNew": true,
+      "description": "إطار واسع هندسي فريد مع عدسات متدرجة التلوين تمنح الوجه حماية محيطية واسعة مع لمسة هوليوودية من الفخامة والتميز.",
+      "specs": {
+        "lensWidth": 62,
+        "bridgeWidth": 15,
+        "templeLength": 140,
+        "frameWidth": 148,
+        "weight": "20g",
+        "warranty": "ضمان سنتين",
+        "origin": "فرنسا"
+      },
+      "features": [
+        "تغطية بصرية واسعة لحماية محيط العين من التجاعيد",
+        "عدسات جرادينت متدرجة",
+        "أذرع خفيفة بحلية ماسية",
+        "حماية UV400"
+      ]
+    },
+    {
+      "id": "azal-acuvue-oasys-hydra",
+      "name": "عدسات أكيوفيو أويسيس هيدرا كلير اليومية (30 عدسة)",
+      "nameEn": "Acuvue Oasys with HydraLuxe Daily Lenses",
+      "brand": "Johnson & Johnson",
+      "category": "contact-lenses",
+      "gender": "unisex",
+      "price": 20000,
+      "originalPrice": 26000,
+      "rating": 4.9,
+      "reviewCount": 110,
+      "images": [
+        "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1591076482161-42ce6da69f68?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "شفافة طبية",
+          "hex": "#e0f2fe"
+        }
+      ],
+      "isBestSeller": true,
+      "description": "عدسات طبية يومية بتقنية هيدرالوكس المشبعة بجزيئات تشبه الدموع الطبيعية، تمنح رطوبة دائمة تمنع جفاف العين أثناء العمل أمام الشاشات.",
+      "specs": {
+        "weight": "30 عدسة يومية",
+        "warranty": "أصلية مضمونة 100%",
+        "origin": "الولايات المتحدة الأمريكية"
+      },
+      "features": [
+        "نسبة نفاذية أكسجين فائقة 98%",
+        "ترطيب متواصل طوال اليوم",
+        "حماية الفئة 1 من الأشعة فوق البنفسجية",
+        "راحة تامة بدون الحاجة لمحاليل"
+      ]
+    },
+    {
+      "id": "azal-anesthesia-color-lens",
+      "name": "عدسات أنستازيا التجميلية والطبية الفاخرة (Anesthesia)",
+      "nameEn": "Anesthesia Luxury Colored & Prescription Lenses",
+      "brand": "Anesthesia USA",
+      "category": "contact-lenses",
+      "gender": "women",
+      "price": 22000,
+      "originalPrice": 28000,
+      "rating": 4.8,
+      "reviewCount": 95,
+      "images": [
+        "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "أناستازيا أديكت بلو (أزرق طبيعي)",
+          "hex": "#38bdf8"
+        },
+        {
+          "name": "أناستازيا فيغاس بيرل (رمادي لؤلؤي)",
+          "hex": "#94a3b8"
+        },
+        {
+          "name": "أناستازيا برونز هازل (عسلي ساحر)",
+          "hex": "#d97706"
+        },
+        {
+          "name": "أناستازيا أوليف إميرالد (زيتي أخضر)",
+          "hex": "#65a30d"
+        }
+      ],
+      "isNew": true,
+      "description": "عدسات شهرية/نصف سنوية بألوان طبيعية ساحرة تندمج بسلاسة مع لون العين بدون خطوط حادة، متوفرة بزينة وتصحيح نظر طبي معاً.",
+      "specs": {
+        "weight": "زوج عدسات + حافظة معقمة",
+        "warranty": "أصلية معتمدة من هيئة الغذاء والدواء",
+        "origin": "الولايات المتحدة"
+      },
+      "features": [
+        "ألوان طبيعية تحاكي قزحية العين",
+        "متوفرة بدون مقاس أو بمقاسات طبية",
+        "حواف دقيقة وناعمة لا تسبب احمراراً",
+        "احتفاظ بالرطوبة العالية"
+      ]
+    },
+    {
+      "id": "azal-biotrue-solution-kit",
+      "name": "محلول بيوترو المعقم الشامل للعدسات مع حقيبة حافظة",
+      "nameEn": "Biotrue Multi-Purpose Lens Solution Kit 300ml",
+      "brand": "Bausch + Lomb",
+      "category": "accessories",
+      "gender": "unisex",
+      "price": 20000,
+      "originalPrice": 24000,
+      "rating": 4.9,
+      "reviewCount": 68,
+      "images": [
+        "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "عبوة 300 مل + حافظة",
+          "hex": "#0284c7"
+        }
+      ],
+      "description": "محلول متطور مستوحى من بيولوجيا العين الطبيعية، يطابق درجة حموضة الدموع الصحية ويعقم ويزيل البروتينات بفعالية 99.9%.",
+      "specs": {
+        "weight": "300ml",
+        "origin": "الولايات المتحدة الأمريكية"
+      },
+      "features": [
+        "تعقيم فائق ضد البكتيريا",
+        "ترطيب يدوم 20 ساعة",
+        "يحتوي على حمض الهيالورونيك الطبيعي",
+        "مناسب لجميع أنواع العدسات اللينة"
+      ]
+    },
+    {
+      "id": "azal-phonak-lumity-cic",
+      "name": "سماعة فوناك لوميتي الرقمية غير المرئية بالكامل (Invisible CIC)",
+      "nameEn": "Phonak Audéo Lumity Completely-in-Canal Hearing Aid",
+      "brand": "Phonak (Switzerland)",
+      "category": "hearing-aids",
+      "gender": "unisex",
+      "price": 30000,
+      "originalPrice": 38000,
+      "rating": 5,
+      "reviewCount": 42,
+      "images": [
+        "/src/assets/images/hearing_aid_cic_1787840689967.jpg",
+        "/src/assets/images/medical_hearing_aid_1787840675400.jpg"
+      ],
+      "colors": [
+        {
+          "name": "لون الجلد الطبيعي (غير مرئي)",
+          "hex": "#fbcfe8"
+        },
+        {
+          "name": "أنثراسايت فحمي خفي",
+          "hex": "#334155"
+        }
+      ],
+      "isBestSeller": true,
+      "description": "سماعة سويسرية رقمية متطورة توضع بالكامل داخل قناة الأذن لتكون مخفية تماماً عن الأنظار. مزودة بمعالج ذكاء اصطناعي يفصل الكلام البشري عن ضوضاء الخلفية بوضوح كريستالي.",
+      "specs": {
+        "channels": 24,
+        "batteryType": "بطارية مقاس 10 / شحن سريع اختياري",
+        "bluetooth": true,
+        "noiseReduction": "عزل ضوضاء ديناميكي AutoSense OS 5.0",
+        "fittingRange": "ضعف سمع خفيف إلى متوسط وشديد (Mild to Severe)",
+        "warranty": "فحص وتخطيط وبرمجة مجاناً",
+        "origin": "سويسرا"
+      },
+      "features": [
+        "غير مرئية نهائياً داخل مجرى السمع",
+        "24 قناة صوتية لمعالجة أدق الترددات",
+        "فلترة متقدمة لأصوات الرياح والضوضاء المزعجة",
+        "تخصيص وبرمجة دقيقة وفقاً لنتائج تخطيط السمع بمركز آزال"
+      ]
+    },
+    {
+      "id": "azal-oticon-more-bte",
+      "name": "سماعة أوتيكون مور الرقمية القابلة للشحن (Rechargeable BTE)",
+      "nameEn": "Oticon More Smart Rechargeable Hearing Aid",
+      "brand": "Oticon (Denmark)",
+      "category": "hearing-aids",
+      "gender": "unisex",
+      "price": 30000,
+      "originalPrice": 39000,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "images": [
+        "/src/assets/images/medical_hearing_aid_1787840675400.jpg",
+        "/src/assets/images/hearing_aid_cic_1787840689967.jpg"
+      ],
+      "colors": [
+        {
+          "name": "فضي تيتانيوم أنيق",
+          "hex": "#94a3b8"
+        },
+        {
+          "name": "بيج كلاسيكي هادئ",
+          "hex": "#fed7aa"
+        },
+        {
+          "name": "أسود كربوني فخم",
+          "hex": "#1e293b"
+        }
+      ],
+      "isNew": true,
+      "description": "أول سماعة طبية مدعومة بشبكة عصبية عميقة (Deep Neural Network) تدربت على 12 مليون مشهد صوتي واقعي. تتيح للمستخدم الاستماع لمحادثات متعددة بسلاسة وربط مباشر بالهواتف عبر البلوتوث.",
+      "specs": {
+        "channels": 64,
+        "batteryType": "بطارية ليثيوم أيون قابلة للشحن تدوم 24 ساعة",
+        "bluetooth": true,
+        "noiseReduction": "شبكة عصبية ذكية DNN 2.0",
+        "fittingRange": "جميع درجات ضعف السمع (خفيف، متوسط، شديد، عميق)",
+        "warranty": "فحص وتخطيط وبرمجة مجاناً",
+        "origin": "الدنمارك"
+      },
+      "features": [
+        "شحن سريع: 30 دقيقة تمنح 6 ساعات استخدام",
+        "اتصال مباشر بهواتف آيفون وأندرويد لإجراء المكالمات وسماع الصوتيات",
+        "وضوح لا يضاهى في المجالس والأماكن المزدحمة",
+        "قالب سيليكون طبي مريح مخصص لكل أذن"
+      ]
+    },
+    {
+      "id": "azal-hearing-accessories-drybox",
+      "name": "جهاز التجفيف والتعقيم بالأشعة فوق البنفسجية لسماعات الأذن",
+      "nameEn": "UV-C Electronic Dehumidifier & Sanitizer for Hearing Aids",
+      "brand": "Azal Hearing Care",
+      "category": "hearing-aids",
+      "gender": "unisex",
+      "price": 21000,
+      "originalPrice": 26000,
+      "rating": 4.8,
+      "reviewCount": 27,
+      "images": [
+        "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "أبيض لؤلؤي طبي",
+          "hex": "#f8fafc"
+        }
+      ],
+      "description": "جهاز إلكتروني ذكي يحافظ على كفاءة سماعات الأذن عبر سحب الرطوبة المتراكمة وتعقيمها بأشعة UV-C للقضاء على 99.9% من الجراثيم وإطالة عمر السماعة لسنوات.",
+      "specs": {
+        "weight": "160g",
+        "warranty": "ضمان سنة",
+        "origin": "ألمانيا"
+      },
+      "features": [
+        "دورة تجفيف أوتوماتيكية خلال 3 ساعات",
+        "تعقيم UV-C آمن",
+        "إيقاف تلقائي مع مؤشر ضوئي",
+        "متوافق مع جميع أنواع السماعات"
+      ]
+    },
+    {
+      "id": "azal-luxury-leather-case",
+      "name": "حافظة نظارات جلدية فاخرة يدوية الصنع مع قماش مايكروفايبر",
+      "nameEn": "Azal Handcrafted Premium Leather Case & Microfiber Cloth",
+      "brand": "Azal Leather Craft",
+      "category": "accessories",
+      "gender": "unisex",
+      "price": 20000,
+      "originalPrice": 25000,
+      "rating": 4.9,
+      "reviewCount": 50,
+      "images": [
+        "https://images.unsplash.com/photo-1508296695146-257a814070b4?auto=format&fit=crop&w=800&q=80"
+      ],
+      "colors": [
+        {
+          "name": "بني كونياك فاخر",
+          "hex": "#78350f"
+        },
+        {
+          "name": "أسود ملكي",
+          "hex": "#0f172a"
+        },
+        {
+          "name": "كحلي داكن",
+          "hex": "#1e3a8a"
+        }
+      ],
+      "description": "حافظة صلبة مبطنة بالمخمل المقاوم للخدوش مع قفل مغناطيسي خفي لحماية نظارتك من الصدمات والضغط أثناء التنقل، تأتي مع منديل مايكروفايبر سميك فائق النعومة.",
+      "specs": {
+        "weight": "85g",
+        "warranty": "ضمان الجودة"
+      },
+      "features": [
+        "جلد طبيعي معالج ضد الماء",
+        "تبطين مخملي ناعم",
+        "قفل مغناطيسي آمن",
+        "تصميم نحيف وسهل الحمل في الجيب أو الحقيبة"
+      ]
+    }
+  ],
+  "heroSlides": [
+    {
+      "id": "slide-1",
+      "badge": "تشكيلة 2025 الحصرية في مركز آزال",
+      "badgeColor": "bg-red-600",
+      "title": "أفخم النظارات الطبية والشمسية",
+      "subtitle": "أطر تيتانيوم يابانية وأسيتات إيطالي خفيفة الوزن مع تفصيل أدق العدسات الطبية",
+      "primaryBtnText": "تسوق التشكيلة الآن",
+      "primaryActionType": "category",
+      "primaryCategory": "eyeglasses",
+      "secondaryBtnText": "جرب النظارات افتراضياً",
+      "secondaryActionType": "virtual-tryon",
+      "bgGradient": "from-slate-950 via-blue-950 to-slate-900",
+      "image": "https://images.unsplash.com/photo-1591076482161-42ce6da69f68?auto=format&fit=crop&w=1200&q=85",
+      "floatingBadge": {
+        "title": "تيتانيوم خفيف جداً",
+        "sub": "وزن 8.5 جرام فقط لا يترك أثراً"
+      },
+      "isActive": true
+    },
+    {
+      "id": "slide-2",
+      "badge": "قسم السمعيات وتخطيط السمع",
+      "badgeColor": "bg-amber-600",
+      "title": "أحدث سماعات الأذن الرقمية غير المرئية",
+      "subtitle": "حلول سويسرية ودنماركية متطورة تعالج الصوت بذكاء اصطناعي وتختفي تماماً داخل قناة الأذن",
+      "primaryBtnText": "استكشف أجهزة السمع",
+      "primaryActionType": "category",
+      "primaryCategory": "hearing-aids",
+      "secondaryBtnText": "اختبار فحص السمع الأولي",
+      "secondaryActionType": "hearing-test",
+      "bgGradient": "from-slate-950 via-slate-900 to-indigo-950",
+      "image": "/src/assets/images/medical_hearing_aid_1787840675400.jpg",
+      "floatingBadge": {
+        "title": "غير مرئية 100%",
+        "sub": "تخطيط وبرمجة دقيقة مجاناً"
+      },
+      "isActive": true
+    },
+    {
+      "id": "slide-3",
+      "badge": "عيادة البصريات المتكاملة",
+      "badgeColor": "bg-blue-600",
+      "title": "فحص نظر وتفصيل عدسات كمبيوترية",
+      "subtitle": "عدسات Blue-Cut لحماية العين من إشعاع الهواتف، وعدسات الانتقال الذكية للشمس",
+      "primaryBtnText": "احجز موعد فحص الآن",
+      "primaryActionType": "appointment",
+      "secondaryBtnText": "عرض العدسات الطبية",
+      "secondaryActionType": "category",
+      "secondaryCategory": "contact-lenses",
+      "bgGradient": "from-slate-950 via-blue-900 to-slate-950",
+      "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=1200&q=85",
+      "floatingBadge": {
+        "title": "دقة مقاسات 100%",
+        "sub": "أجهزة أوتوماتيكية متطورة"
+      },
+      "isActive": true
+    }
+  ],
+  "storeInfo": {
+    "name": "مركز آزال للنظارات والسمعيات",
+    "nameEn": "Azal Optics & Hearing Center",
+    "tagline": "رواد البصريات وأحدث حلول السمع الرقمية بأعلى معايير الدقة والأناقة",
+    "phone1": "0779807290",
+    "phone2": "0734543540",
+    "whatsapp": "+967779807290",
+    "address": "شارع جمال - وسط المدينة",
+    "city": "تعز / اليمن",
+    "workingHours": "يومياً من 9:00 صباحاً حتى 10:30 مساءً (الجمعة من 4:00 عصراً)",
+    "email": "info@azal-optics.com",
+    "establishedYear": 2012,
+    "services": [
+      "فحص النظر وتحديد مقاسات العدسات بالكمبيوتر بدقة متناهية",
+      "تفصيل وتركيب جميع أنواع العدسات الطبية والشمسية (أوتوماتيك)",
+      "تخطيط وقياس السمع السريري بأحدث الأجهزة الرقمية",
+      "توريد وبرمجة أحدث سماعات الأذن الرقمية غير المرئية",
+      "صيانة وتصليح النظارات وأجهزة السمع وقوالب الأذن المخصصة",
+      "أوسع تشكيلة من الماركات العالمية للإطارات والعدسات اللاصقة"
+    ],
+    "storeImage": "/src/assets/images/azal_store_hero_1787843974970.jpg"
+  },
+  "appointments": [],
+  "orders": [],
+  "updatedAt": "2026-08-28T15:15:54.216Z"
+}

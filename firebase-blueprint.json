@@ -1,0 +1,135 @@
+{
+  "entities": {
+    "Product": {
+      "title": "Product",
+      "description": "An optical or hearing product item in Azal Center catalog",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "nameEn": { "type": "string" },
+        "brand": { "type": "string" },
+        "category": { "type": "string" },
+        "gender": { "type": "string" },
+        "price": { "type": "number" },
+        "originalPrice": { "type": "number" },
+        "rating": { "type": "number" },
+        "reviewCount": { "type": "number" },
+        "images": { "type": "array" },
+        "colors": { "type": "array" },
+        "frameShape": { "type": "string" },
+        "material": { "type": "string" },
+        "isNew": { "type": "boolean" },
+        "isOnSale": { "type": "boolean" },
+        "isBestSeller": { "type": "boolean" },
+        "description": { "type": "string" },
+        "specs": { "type": "object" },
+        "features": { "type": "array" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "name", "price", "category"]
+    },
+    "HeroSlide": {
+      "title": "HeroSlide",
+      "description": "Promotional hero slider banner on the homepage",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "badge": { "type": "string" },
+        "badgeColor": { "type": "string" },
+        "title": { "type": "string" },
+        "subtitle": { "type": "string" },
+        "primaryBtnText": { "type": "string" },
+        "primaryActionType": { "type": "string" },
+        "primaryCategory": { "type": "string" },
+        "secondaryBtnText": { "type": "string" },
+        "secondaryActionType": { "type": "string" },
+        "bgGradient": { "type": "string" },
+        "image": { "type": "string" },
+        "floatingBadge": { "type": "object" },
+        "isActive": { "type": "boolean" },
+        "order": { "type": "number" }
+      },
+      "required": ["id", "title", "image"]
+    },
+    "StoreInfo": {
+      "title": "StoreInfo",
+      "description": "Store contact numbers, branches, working hours, and social media",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "tagline": { "type": "string" },
+        "phonePrimary": { "type": "string" },
+        "phoneSecondary": { "type": "string" },
+        "whatsapp": { "type": "string" },
+        "email": { "type": "string" },
+        "address": { "type": "string" },
+        "city": { "type": "string" },
+        "workingHoursWeekdays": { "type": "string" },
+        "workingHoursFriday": { "type": "string" },
+        "social": { "type": "object" },
+        "branches": { "type": "array" }
+      },
+      "required": ["name", "phonePrimary", "whatsapp"]
+    },
+    "Appointment": {
+      "title": "Appointment",
+      "description": "Customer appointment booking for eye or hearing exam",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "fullName": { "type": "string" },
+        "phone": { "type": "string" },
+        "serviceType": { "type": "string" },
+        "preferredDate": { "type": "string" },
+        "preferredTime": { "type": "string" },
+        "notes": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "status": { "type": "string" }
+      },
+      "required": ["fullName", "phone", "serviceType", "preferredDate"]
+    },
+    "Order": {
+      "title": "Order",
+      "description": "Customer e-commerce order from cart checkout",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "customerName": { "type": "string" },
+        "phone": { "type": "string" },
+        "city": { "type": "string" },
+        "address": { "type": "string" },
+        "items": { "type": "array" },
+        "totalAmount": { "type": "number" },
+        "currency": { "type": "string" },
+        "paymentMethod": { "type": "string" },
+        "notes": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "status": { "type": "string" }
+      },
+      "required": ["customerName", "phone", "items", "totalAmount"]
+    }
+  },
+  "firestore": {
+    "/products/{productId}": {
+      "schema": "Product",
+      "description": "All products catalog in Azal Optics & Hearing Center"
+    },
+    "/heroSlides/{slideId}": {
+      "schema": "HeroSlide",
+      "description": "Promotional homepage hero slides and banners"
+    },
+    "/settings/storeInfo": {
+      "schema": "StoreInfo",
+      "description": "Center contact information, phones, branches, and schedules"
+    },
+    "/appointments/{appointmentId}": {
+      "schema": "Appointment",
+      "description": "Appointments booked by customers"
+    },
+    "/orders/{orderId}": {
+      "schema": "Order",
+      "description": "Orders submitted by customers"
+    }
+  }
+}
